@@ -9,7 +9,7 @@ const Home = () => {
 	return (
 		<div className="text-center">
             
-			<Card/>
+	
 			
 		</div>
 	);
